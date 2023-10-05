@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View,TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View ,  TouchableOpacity} from 'react-native';
 
-export default function App() {
+export default function ManHinh1() {
   return (
     <View style={styles.container}>
       <View style = {styles.circle}>
@@ -85,4 +85,3 @@ const styles = StyleSheet.create({
   }
 
 });
-
